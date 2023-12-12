@@ -6,14 +6,14 @@
   width: 99vw;
   height: 97vh;
   color: white;
-  background: #222222fe;
+  background: #636262fe;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .container {
-  background: #0000005d;
+  background: #1b1b1b5d;
   padding: 30px;
   width: 100%;
   margin: 1rem;
